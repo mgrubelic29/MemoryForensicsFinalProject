@@ -1,4 +1,4 @@
-# MemoryForensicsFinalProject
+# Memory Forensics Final Project
 
 Matthew Grubelic, Joseph Veltri, Khalim Cisse
 Memory Forensics
